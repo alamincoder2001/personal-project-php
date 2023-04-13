@@ -1,5 +1,5 @@
 <?php
-require_once 'autoload/autoload_register.php';
+require_once 'vendor/autoload.php';
 
 $emp = Employee::create();
 
