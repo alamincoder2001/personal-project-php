@@ -2,7 +2,7 @@
 class Employee {
     public static function read($id = null)
     {
-        return "Hello world ".$id;
+        return "Read from Employee ".$id;
     }
 
     public static function create()
@@ -10,6 +10,3 @@ class Employee {
         return "Create successfully from Employee";
     }
 }
-
-
-?>

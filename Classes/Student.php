@@ -11,5 +11,3 @@ class Student {
         return "Create successfully from Student";
     }
 }
-
-?>
